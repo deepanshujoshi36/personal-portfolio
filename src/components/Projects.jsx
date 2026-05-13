@@ -10,8 +10,8 @@ function Projects() {
     {
       title: "Portfolio Website",
       description: "Personal portfolio made using React.",
-      github: "https://github.com/",
-      live: "https://example.com",
+      github: "https://github.com/deepanshujoshi36/personal-portfolio",
+      live: "https://personal-portfolio-two-chi-28.vercel.app/#home",
     },
 
     {
