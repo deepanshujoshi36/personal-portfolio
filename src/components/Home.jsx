@@ -5,7 +5,7 @@ function Home() {
       <div className="home-text">
         <h1>Hi, I'm Deepanshu Joshi</h1>
 
-        <h3>BTech Student | React Developer</h3>
+        <h3>BTech Student | Frontend Developer</h3>
 
         <p>
           I am passionate about web development and building modern responsive
