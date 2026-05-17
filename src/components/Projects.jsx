@@ -1,24 +1,10 @@
 function Projects() {
   const projectData = [
     {
-      title: "Firewall Project",
-      description: "Network security based firewall system.",
-      github: "https://github.com/",
-      live: "https://example.com",
-    },
-
-    {
       title: "Portfolio Website",
       description: "Personal portfolio made using React.",
       github: "https://github.com/deepanshujoshi36/personal-portfolio",
       live: "https://personal-portfolio-two-chi-28.vercel.app/#home",
-    },
-
-    {
-      title: "Weather App",
-      description: "Weather checking app using API.",
-      github: "https://github.com/",
-      live: "https://example.com",
     },
   ];
 
